@@ -1,4 +1,6 @@
-RetainUIKit is a simple UI framework that enables declarative construction of iOS interfaces with automatic data binding. It relies on retain observation hooks so UI elements update automatically when data changes, minimizing boilerplate and manual state management.
+RetainUIKit is a lightweight UI framework for iOS that enables declarative construction of interfaces with automatic data binding. Built entirely through “vibe coding,” the project embraces rapid experimentation and intuition-driven design rather than rigid architectural planning. It leverages retain-based observation hooks to automatically propagate state changes to UI components, allowing views to stay in sync with underlying data without manual updates or verbose binding code.
+
+<img src="https://raw.githubusercontent.com/damian-kolakowski/RetainUIKit/refs/heads/main/demo.png" width="200px"/>
 
 [Video](https://www.youtube.com/shorts/ndoQJVEpxoo)
 
